@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/heart/index.html</loc>
+    <loc>http://example.com/2023/12/30/runner/</loc>
     
     <lastmod>2024-04-21</lastmod>
     
@@ -11,7 +11,34 @@
   </url>
   
   <url>
-    <loc>http://example.com/folder-open/index.html</loc>
+    <loc>http://example.com/2024/04/20/blog%20homework/</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/03/30/bigdl2/</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/03/30/bigdl3/</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/03/30/bigdl1/</loc>
     
     <lastmod>2024-04-21</lastmod>
     
@@ -29,15 +56,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2024-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2024-04-21</lastmod>
@@ -47,9 +65,9 @@
   </url>
   
   <url>
-    <loc>http://example.com/2024/04/20/hello-world/</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
-    <lastmod>2024-04-20</lastmod>
+    <lastmod>2024-04-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -64,6 +82,69 @@
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/Hexo/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/BigDL/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/LLM/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/QLoRA/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/GitHub-Pages/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Runner/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://example.com/categories/Homework/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/BigDL/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Runner/</loc>
+    <lastmod>2024-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
